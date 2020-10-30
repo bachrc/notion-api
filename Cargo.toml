@@ -3,7 +3,8 @@ name = "notion-api"
 version = "0.0.0"
 authors = ["bachrc <bachrc@dessert.coffee>"]
 edition = "2018"
-
+description = "Rust bindings for Notion.so official API"
+license = "MIT"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
